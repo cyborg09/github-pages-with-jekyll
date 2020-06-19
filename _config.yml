@@ -1,10 +1,11 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Cyborg
+author: Channabasava H
+email: channachannu.97@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
  Research and development in network and information security domain.
  Automation tools, scripts for understanding netowrk secuirty concepts written in python.
  Artificial Intelligence in cybersecurity domain.
+ 
 #Theme
 theme: minima
 
