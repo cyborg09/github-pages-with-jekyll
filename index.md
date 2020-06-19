@@ -1,3 +1,7 @@
-# Welcome to my blog
-theme: to minima
-I'm glad you are here. I plan to talk about ...
+# Welcome to Cyborg
+
+This blog is show case of my research work and projects and more over it's small gallary to know about me.
+
+Welcome to Cyborg blog..
+
+
